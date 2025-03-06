@@ -1,5 +1,5 @@
 ---
-title: "Best books for 2025"
+title: "My books for 2025"
 description: "My tier list for the Year."
 date: "Feb 07 2025"
 ---
