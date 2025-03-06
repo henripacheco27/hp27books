@@ -6,5 +6,5 @@ export const SITE_TITLE = "hp27books";
 export const SITE_DESCRIPTION =
   "Minimal blog, big knowledge";
 
-export const EMAIL = "henriquepacheco27";
+export const EMAIL = "henriquepacheco27@protonmail.com";
 

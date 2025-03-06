@@ -1,39 +1,72 @@
 ---
-title: "Making Miniblog"
-description: "For those that appreciate simplicity."
-date: "Nov 08 2024"
+title: "Why you need an book"
+description: "For those that appreciate read."
+date: "Mar 06 2025"
 ---
 
 ## Introduction
 
-Hi there! My name is Nicholas Ly, and I'm a fullstack web developer. I started a blog at [nicholasly.com](https://nicholasly.com/), and actively contribute to and build open source projects outside of my day job.
+We humans need books for a multitude of reasons, far beyond simple entertainment. They are fundamental to our growth, understanding, and connection to the world around us. Here's a glimpse into why:   
 
-I've visited my fair share of blogs and have tried a variety of templates. Over time, I've developed some pretty clear preferences and opinions, which I bring to you through [Miniblog](https://miniblog.nicholasly.com/).
+**Expanding Horizons**: Books transport us to different worlds, time periods, and perspectives, broadening our understanding of history, culture, and the human experience. They challenge our assumptions and expose us to new ideas.   
 
-Miniblog is written in Astro, a framework which specializes in static content such as blogs. Both aethetically and functionally, it is designed to be extremely minimal. Enough to get the job done for most people, and canvas for others.
+**Cultivating Empathy**: By immersing ourselves in the lives of fictional characters or real-life individuals, we develop empathy and compassion. We learn to understand and appreciate the complexities of human emotions and motivations. 
+  
+**Sharpening Critical Thinking**: Books encourage us to analyze information, question assumptions, and form our own opinions. They stimulate our minds and enhance our critical thinking skills.   
 
-To be frank, not many people care for your blog. It doesn't need a lot of bells and whistles. Everytime I've ever visited a blog, it was to learn something. I don't think anything should distract from that.
+**Building Knowledge and Vocabulary**: Books are a treasure trove of information, expanding our knowledge base and enriching our vocabulary. They empower us to communicate effectively and navigate the world with greater confidence.   
 
-## Opinionated, but not restrictive.
+**Providing Escape and Relaxation**: In a world filled with distractions, books offer a sanctuary of quiet contemplation and relaxation. They allow us to escape the stresses of daily life and immerse ourselves in a world of imagination.
 
-My favorite blogs are the simple ones. The blogs that have zero distraction, and just have the information I want to read and the data I need. You don't need a lot to accomplish this. With that said, let's go over some of the decisions I've made for this template.
+**Preserving Culture and History**: Books serve as repositories of human knowledge, preserving our history, culture, and traditions for future generations. They connect us to our past and provide insights into our present.   
 
-It's true that this template could literally be done with pure HTML, but [Astro](https://astro.build/) is a great framework with so many quality-of-life features built-in that makes building a blog dead simple.
+**Inspiring Creativity and Imagination**: Books ignite our imaginations and inspire us to think creatively. They spark new ideas and encourage us to explore our own potential.   
 
-I could have very much stuck with vanilla CSS, but I prefer to use [Tailwind CSS](https://tailwindcss.com/). It's a pleasure to work with, extremely lightweight, and its theming system is fantastic.
+**Fostering Connection**: Books can create shared experiences and spark meaningful conversations. Book clubs and shared reading experiences create bonds between people.   
 
-You don't need [ESLint](https://eslint.org/) for a small application like a blog. ESLint is a fantastic tool, especially for larger projects with equally large teams, but it simply isn't necessary for a blog in which you're most likely the only developer. Save yourself the headache.
+In essence, books are not just collections of words; they are gateways to knowledge, understanding, and personal growth.
 
-I do have [Prettier](https://prettier.io/), which is arguably just as unnecessary as ESLint if you're the only contributor, but since this template is open source, a code formatter is pretty useful. You may also be writing and sharing code in your blog posts, so Prettier just makes it easier for the majority to read your code.
+ *They are essential tools for navigating the complexities of life and enriching our human experience.*   
 
-You don't need analytics. Again, analytic tools like [Umami](https://umami.is/) are fantastic, but aren't really necessary for a simple blog. You probably won't get that many visitors, and what significant value do you get from tracking them?
 
-You don't need a comments system. Out of the already few visitors of your blog, most of them won't care to leave a comment. You also would need to be extremely cautious of spam and abuse.
+## Open your mind and your eyes
 
-You don't need a <abbr title="Content Management System">CMS</abbr>, unless you have a crazy amount of posts. And I'm talking like a _crazy_ amount.
+Books have a profound and transformative power to reshape our worldview, acting as catalysts for personal and societal change. Here's how:
 
-Other than that, everything is purposely kept simple on purpose. You don't need a lot of development experience to get started with this template. And if you want to change something, please do.
+**Challenging Preconceived Notions:**
+
+Books introduce us to diverse perspectives, cultures, and experiences that may contradict our own. This exposure challenges our biases and assumptions, prompting us to reconsider our beliefs and expand our understanding of the world.
+
+**Expanding Empathy and Understanding:**
+
+Through storytelling, books allow us to walk in the shoes of others, fostering empathy and compassion. By understanding different perspectives, we become more tolerant and accepting of diversity.
+
+**Promoting Critical Thinking and Intellectual Growth:**
+
+Books encourage us to analyze information, question assumptions, and form our own opinions. They stimulate intellectual curiosity and promote critical thinking, empowering us to make informed decisions and engage in meaningful dialogue.
+
+**Inspiring Social Change:**
+
+Throughout history, books have played a pivotal role in social movements, raising awareness about injustice and inspiring action. They can ignite a sense of social responsibility and motivate individuals to work towards a more just and equitable world.
+
+**Broadening Cultural Awareness:**
+
+Books offer insights into different cultures, traditions, and ways of life. By understanding and appreciating cultural diversity, we can break down barriers and build bridges between communities.
+
+**Providing Historical Context:**
+
+Books preserve history, allowing us to learn from the past and understand the present. By understanding historical context, we can gain a deeper appreciation for the complexities of our world and avoid repeating past mistakes.
+
+**Fueling Innovation and Creativity:**
+
+Books spark imagination and inspire new ideas, fueling innovation and creativity. They can open our minds to new possibilities and encourage us to think outside the box.
+
+**Creating a Shared Understanding:**
+
+Books can create a shared understanding of common problems, and possible solutions. This shared understanding can help to unify peoples around a common goal.
+
+In essence, books are powerful tools for shaping our worldview, fostering empathy, and driving positive change. They have the ability to transform individuals and societies, creating a more informed, compassionate, and just world.
 
 ## Final note
 
-Feel free to disagree with my opinions. It's open source for a reason—do whatever you want with it.
+Ready to expand your horizons and challenge your perspectives? Dive into a world of endless possibilities! **Pick up a book today and embark on a journey of discovery. Your next great adventure awaits between the pages.**
