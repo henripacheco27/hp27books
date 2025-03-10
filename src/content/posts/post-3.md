@@ -4,7 +4,7 @@ description: "My tier list for the Year."
 date: "Feb 07 2025"
 ---
 
-*1 - You² - https://amzn.to/4ijux7K
+*1 - You² - https://amzn.to/4ijux7K 
 
 *2 - Million Dollar Weekend - https://amzn.to/41Kzukv
 
