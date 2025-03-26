@@ -10,8 +10,18 @@ import Layout from "../layouts/Layout.astro";
 >
   <main class="space-y-4">
     <p>
-      hp27 is my personal blog. Here i wrote about my passions. 
+      hp27 é meu blog, aonde escrevo minhas idéias.
     </p>
+
+    <script async
+  src="https://js.stripe.com/v3/buy-button.js">
+</script>
+
+<stripe-buy-button
+  buy-button-id="buy_btn_1R70ezEIXj8WmP1sz7qH2iWC"
+  publishable-key="pk_live_51QxxIfEIXj8WmP1s7Vx3yp0aaa9r7cQnJqRPCh7HcgUGiMn1scS0cU2cXyij2qG1YYFgt0ZN9yUHonRDg86BgjOb0073f7YZ2h"
+>
+</stripe-buy-button>
     
   </main>
 </Layout>
