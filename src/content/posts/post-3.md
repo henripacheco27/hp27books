@@ -4,6 +4,8 @@ description: "Livros que você deveria ler em algum momento da sua vida"
 date: "Jan 01 2025"
 ---
 
+# Livros que mais impactaram minha vida:
+
 *1 - Biblía - Esse é mais que um livro, um manual de comportamento. Tudo o que precisa saber sobre: Relacionamentos, negócios e 
 financeiro está aqui. https://amzn.to/3FV9hqA
 
@@ -24,7 +26,7 @@ financeiro está aqui. https://amzn.to/3FV9hqA
 
 Galera, a medida que lembrar eu atualizo a lista. Livros estão custando cada vez mais caro no Brasil. Eu tive a oportundidade de ir em outros países e ver o quanto o acesso ao conhecimento é barato por lá. Hoje em dia, queimamos dinheiro com uma infinidade de futilidades que mal pensamos em investir R$30-R$50 por mês em algo que possa nos ajudar a crescer pessoalmente. 
 
-Eu gosto de aprender de tudo. Mas, recentemente os livros de filosofia tem ganhado destaque no meu coração e na minha mente. E, é exatamente como dizem: *"Se você acha que educação custa caro, experimenta a ignorância..."*
+Eu gosto de aprender de tudo. Mas, recentemente os livros de filosofia tem ganhado destaque no meu coração e na minha mente. E, é exatamente como dizem: **"Se você acha que educação custa caro, experimenta a ignorância..."**
 
 Att, hp27.
 
