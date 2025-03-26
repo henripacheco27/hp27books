@@ -1,6 +1,6 @@
 ---
-title: "Quem quer ser um milionário?"
-description: "Como sempre ter dinheiro"
+title: "Como sempre ter dinheiro"
+description: "Quem quer ser um milionário?"
 date: "Jan 3 2025"
 ---
 
@@ -29,3 +29,5 @@ Assim, como todas as pessoas de cabelos brancos. Cedo ou tarde, você vai aprend
 Para só depois, lá no futuro. Você olhar para trás e lembrar de como naquela época aquelas coisas pareciam mais dificéis do que realmente elas eram. Mas, hoje são apenas um sopro...
 
 Eu pretendo revisar e aumentar esse texto conforme os anos se passarem. E, eu superar as barreiras que hoje enxergo e que amanhã serão pequenas pedras no caminho. Minha missão com esse texto é só te insipirar a seguir o caminho. Pois, se conseguir ver além. Muito mais que só o dinheiro. Vai perceber como ele cola e magnetiza em você automaticamente. 
+
+Att.

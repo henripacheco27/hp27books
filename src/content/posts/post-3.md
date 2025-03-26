@@ -28,7 +28,7 @@ Galera, a medida que lembrar eu atualizo a lista. Livros estão custando cada ve
 
 Eu gosto de aprender de tudo. Mas, recentemente os livros de filosofia tem ganhado destaque no meu coração e na minha mente. E, é exatamente como dizem: **"Se você acha que educação custa caro, experimenta a ignorância..."**
 
-Att, hp27.
+Att.
 
 
 
