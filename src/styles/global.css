@@ -79,5 +79,8 @@
     mark {
       @apply dark:bg-yellow-500/50 dark:text-white;
     }
+    script{
+      text-align: center;
+    }
   }
 }
