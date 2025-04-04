@@ -37,9 +37,9 @@ Com essa opção de comprar a um clique. Compramos coisas das quais nem lembramo
 
 Itens que comprei a anos e já se pagaram pelo tempo de vida x uso:
 
-# 1 - Kindle (Li mais de 100 livros nele.)
-# 2 - Casio G-Shock (Funcional, indestrutível e carrega com o sol)
-# 3 - Carteira Jouse (Elegante, moderna, prática e nacional)
-# 4 - Óculos Lahtref (Lindo, elegante e durável)
-# 5 - Botas Democrata (Confortáveis, versáteis e atemporais)
-# 6 - Pasta de carteiro de couro (Funcional, bonita e fica mais bonita com o tempo)
+## 1 - Kindle (Li mais de 100 livros nele.)
+## 2 - Casio G-Shock (Funcional, indestrutível e carrega com o sol)
+## 3 - Carteira Jouse (Elegante, moderna, prática e nacional)
+## 4 - Óculos Lahtref (Lindo, elegante e durável)
+## 5 - Botas Democrata (Confortáveis, versáteis e atemporais)
+## 6 - Pasta de carteiro de couro (Funcional, bonita e fica mais bonita com o tempo)
