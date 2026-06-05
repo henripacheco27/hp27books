@@ -76,6 +76,15 @@ const {
       <Header />
       <slot />
     </div>
+
+    <button
+      id="back-to-top"
+      type="button"
+      aria-label="Back to top"
+      class="fixed bottom-6 right-6 z-50 flex h-11 w-11 items-center justify-center rounded-full border border-zinc-300 bg-white/90 text-xl font-semibold text-zinc-700 shadow-md opacity-0 pointer-events-none translate-y-2 transition-all hover:bg-white hover:text-zinc-900 dark:border-zinc-700 dark:bg-zinc-800/90 dark:text-zinc-200 dark:hover:bg-zinc-800 dark:hover:text-white"
+    >
+      ↑
+    </button>
   </body>
 </html>
 
@@ -108,4 +117,30 @@ const {
   setTheme();
 
   document.addEventListener("astro:after-swap", setTheme);
+
+  const setupBackToTop = () => {
+    if (window.__backToTopInitialized) return;
+    window.__backToTopInitialized = true;
+
+    const backToTop = document.getElementById("back-to-top");
+    if (!backToTop) return;
+
+    const toggleBackToTop = () => {
+      const shouldShow = window.scrollY > 220;
+      backToTop.classList.toggle("opacity-0", !shouldShow);
+      backToTop.classList.toggle("pointer-events-none", !shouldShow);
+      backToTop.classList.toggle("translate-y-2", !shouldShow);
+      backToTop.classList.toggle("opacity-100", shouldShow);
+      backToTop.classList.toggle("translate-y-0", shouldShow);
+    };
+
+    backToTop.addEventListener("click", () => {
+      window.scrollTo({ top: 0, behavior: "smooth" });
+    });
+
+    toggleBackToTop();
+    window.addEventListener("scroll", toggleBackToTop, { passive: true });
+  };
+
+  setupBackToTop();
 </script>
