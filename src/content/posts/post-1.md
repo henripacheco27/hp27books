@@ -8,7 +8,7 @@ date: "Jan 3 2025"
 
 Trabalhe, poupe e invista. É isso. Nem preciso enrolar muito.
 
-Ao longo dos anos, venho tentando passar essa mensagem de forma mais curta e direta para pessoas que me perguntam e me vêem como referência financeira. E, a verdade é que não tem segredo. Você precisa trabalhar para **ganhar**, **poupar** para poder **investir** e por fim. Precisa saber no que quer investir.
+Ao longo dos anos, venho tentando passar essa mensagem de forma mais curta e direta para as pessoas que me perguntam e me vêem como referência financeira. E, a verdade é que não tem segredo. Você precisa trabalhar para **ganhar**, **poupar** para poder **investir** e por fim. Precisa saber no que quer investir.
 
 Eu posso dizer que testei muitas formas de investimentos ao longo dos últimos 13 anos. E, posso te garantir também que nada rendeu mais frutos do que **investir em mim mesmo**. Isso mesmo, o melhor investimento é você.
 
@@ -16,7 +16,7 @@ Eu posso dizer que testei muitas formas de investimentos ao longo dos últimos 1
 
 Para ganhar mais dinheiro, o seu eu tem que estar lapidado. Muita gente mira em rendimentos que no momento não são sua realidade. Mas, que não são realidades dificéis de se alcançar. Eu mesmo, comecei ganhando R$313 por mês. Naquela época, tudo o que eu queria era ser promovido para ganhar R$424 por mês. Eu tive que me melhorar muito no processo. Mas, consegui.
 
-Olhando para trás. Eu jamais poderia imaginar chegar aonde cheguei e consegui o que consegui em tão pouco tempo. E, o mais legal é que eu olho para frente e consigo perceber hoje. Que ainda falta um longo caminho pela frente e que minha vontade é de sempre mais. Mas, para isso, eu sigo apostando em mim mesmo. Visual, oratória, conhecimento 360 graus, idiomas e estudar. São hoje, minhas formas de investimento pessoal. Isso, gerou e vem gerando juros composto a longo prazo. Pense nisso e em como pode aplicar isso na sua vida.
+Olhando para trás. Eu jamais poderia imaginar chegar onde cheguei e consegui o que consegui em tão pouco tempo. E, o mais legal é que eu olho para frente e consigo perceber hoje. Que ainda falta um longo caminho pela frente e que minha vontade é de sempre mais. Mas, para isso, eu sigo apostando em mim mesmo. Visual, oratória, conhecimento 360 graus, idiomas e estudar. São hoje, minhas formas de investimento pessoal. Isso, gerou e vem gerando juros composto a longo prazo. Pense nisso e em como pode aplicar isso na sua vida.
 
 ## Passo 3
 

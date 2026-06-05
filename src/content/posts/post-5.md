@@ -25,13 +25,13 @@ Uma boa técnica é colocar o produto/serviço no carrinho. Com a conta logada o
 
 ## Converse com quem já adquiriu
 
-Muitas compras ruins que fizemos, poderiam sem evitadas. Se, tivessémos parado e perguntado alguém qual foi a experiência da pessoa com aquele determinado produto/serviço. Mas, se não conhece ninguém que tenha feito a compra. A internet está aí para isso. Conectar tudo e todos a qualquer lugar. 
+Muitas compras ruins que fizemos, poderiam ser evitadas. Se, tivessémos parado e perguntado alguém qual foi a experiência da pessoa com aquele determinado produto/serviço. Mas, se não conhece ninguém que tenha feito a compra. A internet está aí para isso. Conectar tudo e todos a qualquer lugar. 
 
-Se vocês investerem o pensamento. Quando alguém chega para você e recomenda de bate pronto um determinado produto/serviço que você tem interesse. Fatalmente, você fica 90% inclinado a comprar. E, geralmente. A compra tende a ter um retorno positivo. 
+Se vocês invertessem o pensamento. Quando alguém chega para você e recomenda de bate pronto um determinado produto/serviço que você tem interesse. Fatalmente, você fica 90% inclinado a comprar. E, geralmente. A compra tende a ter um retorno positivo. 
 
 ## Se pergunte antes, se realmente aquele item vai te fazer mais feliz
 
-Naturalmente, agimos por impulsão ou por estarmos "influenciados" de alguma forma. Pensar um pouco antes de comprar é um bom exercício. Se perguntar se aquele determinado vai te fazer feliz e porquê. Também é. Eu já evitei muitas compras, só de tomar esses passos. Claro, que não deixar o cartão cadastrado também ajuda.
+Naturalmente, agimos por impulso ou por estarmos "influenciados" de alguma forma. Pensar um pouco antes de comprar é um bom exercício. Se perguntar se aquele determinado item vai te fazer feliz e porquê. Também é. Eu já evitei muitas compras, só de tomar esses passos. Claro, que não deixar o cartão cadastrado também ajuda.
 
 Com essa opção de comprar a um clique. Compramos coisas das quais nem lembramos o porque compramos de inicío. Foque em comprar menos itens. Porém, itens melhores. Que tenham boa durabilidade e que de fato vão agregar valor para a sua vida. 
 
@@ -43,3 +43,7 @@ Itens que comprei a anos e já se pagaram pelo tempo de vida x uso:
 ## 4 - Óculos Lahtref (Lindo, elegante e durável)
 ## 5 - Botas Democrata (Confortáveis, versáteis e atemporais)
 ## 6 - Pasta de carteiro de couro (Funcional, bonita e fica mais bonita com o tempo)
+## 7 - Macbook, de longe uma das melhores aquisições. Eu posso criar muita coisa e nem esquentar cabeça se o pc funciona ou aguenta a tarefa
+## 8 - HP12C, quem é de finanças sabe o impacto dessa ferramenta no dia a dia
+## 9 - Garrafa de inox, tenho uma garrafa de 500ml que pode levar líquidos (quente ou frio), que me custou R$40 em 2023
+## 10 - Galaxy Buds, eu já tive vários fones de ouvido. Mas, em termos de qualidade e robustez. Esse está de parabéns
